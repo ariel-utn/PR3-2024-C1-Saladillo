@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ariel\\Desktop\\ejemplo1\\",
+  "WorkspaceRootPath": "C:\\Users\\Ariel\\Documents\\GitHub\\PR3-2024-C1-Saladillo\\Semana06\\ejemplo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|c:\\users\\ariel\\desktop\\ejemplo1\\ejemplo1\\formulario1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\formulario1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Ariel\\Documents\\GitHub\\PR3-2024-C1-Saladillo\\Semana06\\ejemplo1\\ejemplo1\\formulario1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\formulario1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|c:\\users\\ariel\\desktop\\ejemplo1\\ejemplo1\\formulario1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\formulario1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|c:\\users\\ariel\\documents\\github\\pr3-2024-c1-saladillo\\semana06\\ejemplo1\\ejemplo1\\formulario1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5638D152-B32A-4824-AFB5-9FCB79DDD151}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\formulario1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "formulario1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\ejemplo1\\ejemplo1\\formulario1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documents\\GitHub\\PR3-2024-C1-Saladillo\\Semana06\\ejemplo1\\ejemplo1\\formulario1.aspx.cs",
               "RelativeDocumentMoniker": "ejemplo1\\formulario1.aspx.cs",
-              "ToolTip": "C:\\Users\\Ariel\\Desktop\\ejemplo1\\ejemplo1\\formulario1.aspx.cs*",
-              "RelativeToolTip": "ejemplo1\\formulario1.aspx.cs*",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABaAAAA",
+              "ToolTip": "C:\\Users\\Ariel\\Documents\\GitHub\\PR3-2024-C1-Saladillo\\Semana06\\ejemplo1\\ejemplo1\\formulario1.aspx.cs",
+              "RelativeToolTip": "ejemplo1\\formulario1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T18:17:52.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "formulario1.aspx",
-              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\ejemplo1\\ejemplo1\\formulario1.aspx",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documents\\GitHub\\PR3-2024-C1-Saladillo\\Semana06\\ejemplo1\\ejemplo1\\formulario1.aspx",
               "RelativeDocumentMoniker": "ejemplo1\\formulario1.aspx",
-              "ToolTip": "C:\\Users\\Ariel\\Desktop\\ejemplo1\\ejemplo1\\formulario1.aspx",
+              "ToolTip": "C:\\Users\\Ariel\\Documents\\GitHub\\PR3-2024-C1-Saladillo\\Semana06\\ejemplo1\\ejemplo1\\formulario1.aspx",
               "RelativeToolTip": "ejemplo1\\formulario1.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
