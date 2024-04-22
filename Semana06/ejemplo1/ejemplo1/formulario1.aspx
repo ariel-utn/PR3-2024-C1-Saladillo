@@ -99,8 +99,7 @@
                         </asp:DropDownList>
                     </td>
                     <td>
-                        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
-                    </td>
+                        &nbsp;</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
